@@ -3,7 +3,9 @@ from Operations  import opeartion as oper
 print("Select type.")
 print("1-simple.")
 print("2-advance")
-
+print("Select type.")
+print("1-simple.")
+print("2-advance")
 
 while True:
     # take
