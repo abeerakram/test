@@ -7,7 +7,7 @@ print("2-advance")
 
 while True:
     # take
-    #  input from the user
+    #  ccbhvch input from the user
     choice = input("Enter choice(1/2): ")
 
     # check if choice is one
