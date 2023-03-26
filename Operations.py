@@ -1,3 +1,4 @@
+import math
 class opeartion:
     def subtract(x, y):
         return x - y
@@ -13,7 +14,7 @@ class opeartion:
     # This function divides two numbers
     def divide(x, y):
         return x / y
-        # This function cos the number
+    # This function cos the number
     def cosin(x):
         return math.cos(x)
     # This function sin the number
@@ -39,11 +40,11 @@ class opeartion:
     def cr(x):
         return x **(1/3)
     # This function invers cos the number
-    def inverscos11(x):
-        return acos(x)
+    #def inverscos11(x):
+     #   return math.acos(x)
         # This function invers sin the number
-    def inverssin(x):
-        return asin(x)
+    #def inverssin(x):
+      #  return math.asin(x)
     # This function invers tan the number
-    def inverstan(x):
-        return atan(x)
+    #def inverstan(x):
+      #  return math.atan(x)
