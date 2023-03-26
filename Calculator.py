@@ -131,3 +131,20 @@ while True:
              break
     else:
         print("Invalid Input")
+
+
+        
+while True:
+    # take
+    #  input from the user
+    choice = input("Enter choice(1/2): ")
+
+    # check if choice is one
+    if choice == ('1'):
+        print("Select operation.")
+        print("1.Add")
+        print("2.Subtract")
+        print("3.Multiply")
+        print("4.Divide")
+        choice = input("Enter choice(1/2/3/4): ")
+
