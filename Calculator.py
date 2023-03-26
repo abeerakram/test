@@ -8,6 +8,12 @@ print("1-simple.")
 print("2-advance")
 print("1-simple.")
 print("2-advance")
+print("1-simple.")
+print("2-advance")
+print("1-simple.")
+print("2-advance")
+
+
 while True:
     # take
     #  input from the user
