@@ -2,6 +2,8 @@ import math
 class opeartion:
     def subtract(x, y):
         return x - y
+    def subtract(x, y):
+        return x - y
 
     # This function adds two numbers
     def add(x, y):
