@@ -5,6 +5,8 @@ print("1-simple.")
 print("2-advance")
 print("hello")
 print("opop")
+print("hello")
+print("opop")
 while True:
     # take
     #  input from the user
