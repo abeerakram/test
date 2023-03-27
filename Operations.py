@@ -20,6 +20,11 @@ class opeartion:
         return x * y
      def add(x, y):
             return x + y  # This function adds two numbers
+    # This function multiplies two numbers
+    def multiply(x, y):
+        return x * y
+     def add(x, y):
+            return x + y  # This function adds two numbers
     def add(x, y):
  # This function adds two numbers
     def add(x, y):
