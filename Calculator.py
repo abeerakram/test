@@ -3,6 +3,7 @@ from Operations  import opeartion as oper
 print("Select type.")
 print("1-simple.")
 print("2-advance")
+juhyttr6
 
 
 while True:
@@ -131,3 +132,8 @@ while True:
              break
     else:
         print("Invalid Input")
+         next_calculation = input("Let's do next calculation? (yes/no): ")
+        if next_calculation == "no":
+             break
+    else:
+      print("yhhgft")

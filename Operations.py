@@ -47,3 +47,6 @@ class opeartion:
     # This function invers tan the number
     def inverstan(x):
         return atan(x)
+
+    def inverstan(y):
+        return atan(y)
