@@ -3,6 +3,7 @@ from Operations  import opeartion as oper
 print("Select type.")
 print("1-simple.")
 print("2-advance")
+print("3-Test")
 
 
 while True:
