@@ -130,7 +130,7 @@ while True:
         next_calculation = input("Let's do next calculation? (yes/no): ")
         if next_calculation == "no":
              break
-    else:
+    else:hbhiy
         print("Invalid Input")
          next_calculation = input("Let's do next calculation? (yes/no): ")
         if next_calculation == "no":
